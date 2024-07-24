@@ -10,16 +10,19 @@ Features
 - Restart option available after the game ends.
 - Implemented using Python and tkinter for the graphical interface.
 
-Installation
+Installation:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+   ```sh
    git clone https://github.com/vidhanjain26/CodeClauseInternship_Tic-Tac-Toe-AI.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   ```sh
    cd CodeClauseInternship_Tic-Tac-Toe-AI
 
-3. Run the game:
+5. Run the game:
+   ```sh
    python TicTacToe.py
 
 Gameplay

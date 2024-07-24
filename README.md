@@ -3,7 +3,7 @@ This project implements a Tic-Tac-Toe game with an AI opponent using Python and 
 
 Features
 - Two game modes:
-  - Play against an AI opponent (with adjustable difficulty levels).
+  - Play against an AI opponent.
   - Play with a friend manually.
 - Colorful GUI designed for easy understanding, especially for kids.
 - AI logic based on strategic move calculations to provide a challenging gameplay experience.

@@ -1,4 +1,4 @@
-# CodeClauseInternship_Tic-Tac-Toe-AI
+# Tic-Tac-Toe-AI
 This project implements a Tic-Tac-Toe game with an AI opponent using Python and tkinter for the GUI. The AI is designed to make strategic moves against the player, providing an engaging gaming experience.
 
 Features
@@ -15,11 +15,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vidhanjain26/CodeClauseInternship_Tic-Tac-Toe-AI.git
+   git clone https://github.com/vidhanjain26/Tic-Tac-Toe-AI.git
 
 3. Navigate to the project directory:
    ```sh
-   cd CodeClauseInternship_Tic-Tac-Toe-AI
+   cd Tic-Tac-Toe-AI
 
 5. Run the game:
    ```sh
